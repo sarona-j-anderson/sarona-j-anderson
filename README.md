@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarona Jacob Anderson  
 
-<!--
-**sarona-j-anderson/sarona-j-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Drug Design & Discovery (University of Salford, UK)  
+🎓 MSc Bioinformatics (Stella Maris College, India)  
+🎓 BSc Chemistry (Stella Maris College, India)  
 
-Here are some ideas to get you started:
+💡 I have a dual background in **bioinformatics, molecular modelling, and drug design**, with strong interests in **cancer research and translational drug discovery**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 My projects span from **computational docking of p53–MDM2 inhibitors** to **wet-lab synthesis and evaluation of fendiline derivatives** for anticancer potential.  
+
+💻 Skilled in:  
+- Programming: Python, R, SQL, C++, Perl  
+- Computational Drug Design: Molecular Docking, ADMET Screening  
+- Bioinformatics: NGS Analysis, RNA-seq, Data Pipelines  
+- Experimental Techniques: DNA/RNA Extraction, PCR, MTT Assay, Cell Culture  
+
+🔬 Current Focus:  
+Building a **GitHub portfolio** showcasing reproducible workflows in **drug discovery, bioinformatics, and cancer data analysis**.  
+
+📫 Reach me at: **saruna.j.anderson@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/sarona-j-anderson](https://www.linkedin.com/in/sarona-j-anderson)  
