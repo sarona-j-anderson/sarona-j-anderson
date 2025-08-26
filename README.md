@@ -17,5 +17,5 @@
 🔬 Current Focus:  
 Building a **GitHub portfolio** showcasing reproducible workflows in **drug discovery, bioinformatics, and cancer data analysis**.  
 
-📫 Reach me at: **saruna.j.anderson@gmail.com**  
+📫 Reach me at: **sarona.j.anderson@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/sarona-j-anderson](https://www.linkedin.com/in/sarona-j-anderson)  
